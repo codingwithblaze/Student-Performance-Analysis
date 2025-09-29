@@ -1,0 +1,24 @@
+=== CASE STUDY REPORT: STUDENT BM EXCEL BLAZE (22D41A7210) ===
+Program: B.Tech in Artificial Intelligence & Data Science
+Historical SGPAs:
+  Semester 1: 6.98
+  Semester 2: 6.10
+  Semester 3: 6.75
+  Semester 4: 7.45
+  Semester 5: 7.85
+  Semester 6: 7.88
+  Semester 7: 8.10
+Current CGPA: 7.30
+Predicted Semester 8 SGPA: 8.45
+Historical Course Stats:
+  Total Courses Completed: 65
+  Average Internal Marks: 33.13
+  Average External Marks: 41.00
+Grade Breakdown:
+  A+: 16
+  A: 15
+  B+: 11
+  B: 9
+  C: 6
+  O: 5
+  P: 3
