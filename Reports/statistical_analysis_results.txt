@@ -1,0 +1,28 @@
+=== STATISTICAL ANALYSIS RESULTS ===
+
+--- DESCRIPTIVE STATISTICS ---
+                            Mean     Median        Mode    Variance    Std_Dev
+Age                    16.324000  16.000000   16.000000    1.040064   1.019835
+Attendance_Percentage  91.991295  92.556719   92.556719   21.138956   4.597712
+Study_Hours             4.348724   3.888549   10.000000    5.498850   2.344963
+Previous_Grades        72.068596  71.959319  100.000000  151.600484  12.312615
+Final_Exam_Score       93.020000  95.000000  100.000000   56.187788   7.495851
+
+--- HYPOTHESIS TESTING: T-TEST (Internet Access vs Score) ---
+Internet Yes Mean Score: 93.34
+Internet No Mean Score: 91.50
+T-Statistic: 2.8312, P-Value: 5.0328e-03
+Significant: True
+
+--- HYPOTHESIS TESTING: ANOVA (Parent Education vs Score) ---
+  'Associate's' Mean Score: 93.10
+  'High School' Mean Score: 91.31
+  'Bachelor's' Mean Score: 95.02
+  'Master's' Mean Score: 95.21
+F-Statistic: 15.2463, P-Value: 1.0498e-09
+Significant: True
+
+--- CORRELATION ANALYSIS WITH FINAL SCORE ---
+  Attendance_Percentage Pearson r: 0.2041
+  Study_Hours Pearson r: 0.5571
+  Previous_Grades Pearson r: 0.3927
